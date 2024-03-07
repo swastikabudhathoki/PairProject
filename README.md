@@ -1,2 +1,4 @@
 # PairProject
-Pair Project (207025_207028)
+Prepared by
+<br>
+Swastika Budhathoki (207025) & Swornika Chhetri (207028)
