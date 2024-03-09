@@ -48,7 +48,7 @@ The dataset provided is related to demographic and financial attributes of indiv
 </p>
 <br>
 <h4>CONCLUSION</h4>
-<img width="1184" alt="Screenshot 2024-03-08 at 12 38 48 PM" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/b28cbcfa-91a6-4de1-b0a2-0ae9b51b69aa">
+<img width="1294" alt="Bank" src="https://github.com/swastikabudhathoki/PairProject/assets/123391402/89bac7b3-f7bb-404d-b123-a79d8b5ffe44">
 <p>To boost long-term subscription rates and enhance customer engagement, banks can implement strategic initiatives. Firstly, they should focus on understanding their customers better by segmenting them based on their different traits and behaviors. This helps in creating personalized marketing messages and services that match the needs of various customer groups.</p>
 
 <p>Secondly, with more people using mobile phones, especially for communication, banks need to prioritize digital platforms, like mobile apps and messaging services, to connect with customers easily.</p>
