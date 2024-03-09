@@ -61,6 +61,3 @@ The dataset provided is related to demographic and financial attributes of indiv
 <p>Lastly, banks should continually analyze feedback from customers and keep an eye on market trends. This helps them stay responsive to changing needs and preferences, ensuring their strategies remain effective over time.</p>
 
 <p>By embracing these strategies, banks can improve their long-term subscription rates, strengthen customer relationships, and thrive in the competitive financial industry.</p>
-
-
-
