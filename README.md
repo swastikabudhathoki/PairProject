@@ -11,3 +11,4 @@ Who are we looking at ?
 <br>
 Influenced by the marketing campaigns, the marital status reveals that 56.90% of the individuals are married, followed by 31.52% who are single, and 11.58% who are divorced. 
 Age; 
+
