@@ -1,4 +1,3 @@
-# Pair Project
 ## **Bank Marketing Campaign: Data Driven Analysis**
 ### Prepared by:Swastika Budhathoki (207025) & Swornika Chhetri (207028)
 <br>
